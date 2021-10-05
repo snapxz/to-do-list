@@ -104,6 +104,7 @@ body {
   text-transform: uppercase;
   cursor: pointer;
   margin-left: 0.25rem;
+  transition: 0.3s all;
 }
 .form-button:hover {
   color: #F6F1D1;
